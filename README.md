@@ -17,15 +17,16 @@ Find the inverse matrix
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: 
-#RegisterNumber:
+#Developed by: Yuvaraj V
+#RegisterNumber: 23013769
 import numpy as np
 matrix=[[6,2,3],[3,1,1],[10,3,4]]
 sol=np.linalg.inv(matrix)
 print(sol)
 ```
 ## Output:
-![image](https://github.com/YuvarajVB/INVERSE-OF-A-MATRIX/assets/151488375/66081f72-3126-4ea9-a5f8-d8398d98763e)
+![Screenshot 2023-12-29 141300](https://github.com/YuvarajVB/INVERSE-OF-A-MATRIX/assets/151488375/31a7a183-04e5-4a61-a9cb-a66e86a663e2)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
